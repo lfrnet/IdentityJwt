@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevIO.Api", "src\DevIO.Api\DevIO.Api.csproj", "{BF5D5886-CE54-48DF-A565-68752D66467F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevIO.Business", "src\DevIO.Business\DevIO.Business.csproj", "{BB56D326-BF05-4911-A149-B991A65B9ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5D5886-CE54-48DF-A565-68752D66467F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5D5886-CE54-48DF-A565-68752D66467F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5D5886-CE54-48DF-A565-68752D66467F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5D5886-CE54-48DF-A565-68752D66467F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB56D326-BF05-4911-A149-B991A65B9ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB56D326-BF05-4911-A149-B991A65B9ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB56D326-BF05-4911-A149-B991A65B9ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB56D326-BF05-4911-A149-B991A65B9ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75E4506-E6D4-474E-B21E-1C536FB69281}
+	EndGlobalSection
+EndGlobal
